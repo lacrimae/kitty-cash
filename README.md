@@ -1,6 +1,6 @@
-# Cash Kitty
+# Kitty Cash
 
-Welcome to the Cash Kitty repository! This repository contains links to the code for both the backend and frontend of the finance tracker application.
+Welcome to the Kitty Cash repository! This repository contains links to the code for both the backend and frontend of the finance tracker application.
 
 ## Backend
 The backend code can be found in the [**backend repository**](https://github.com/lacrimae/finance-tracker-be). It is built using Java, Spring Framework, MongoDB, and Jackson. The backend provides RESTful APIs to manage financial transactions, user authentication, and more.
